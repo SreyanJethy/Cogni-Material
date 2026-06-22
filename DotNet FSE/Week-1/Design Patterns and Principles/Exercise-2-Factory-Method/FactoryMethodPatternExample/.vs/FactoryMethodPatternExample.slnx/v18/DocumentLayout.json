@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\documents\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:documents\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\documents\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:documents\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\factories\\exceldocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:factories\\exceldocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\factories\\pdfdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:factories\\pdfdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\factories\\worddocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:factories\\worddocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\factories\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:factories\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\documents\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:documents\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\documents\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:documents\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-2-factory-method\\factorymethodpatternexample\\factorymethodpatternexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F873A047-2359-C25D-C363-061E8C134488}|FactoryMethodPatternExample.csproj|solutionrelative:factorymethodpatternexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T09:12:02.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\WordDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\WordDocument.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\WordDocument.cs",
+              "RelativeToolTip": "Documents\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:49:09.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\DocumentFactory.cs",
+              "RelativeToolTip": "Factories\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:51:09.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\WordDocumentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\WordDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\WordDocumentFactory.cs",
+              "RelativeToolTip": "Factories\\WordDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:51:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\PdfDocumentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\PdfDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\PdfDocumentFactory.cs",
+              "RelativeToolTip": "Factories\\PdfDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:51:37.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\ExcelDocumentFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\ExcelDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Factories\\ExcelDocumentFactory.cs",
+              "RelativeToolTip": "Factories\\ExcelDocumentFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:51:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\IDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\IDocument.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\IDocument.cs",
+              "RelativeToolTip": "Documents\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:48:51.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\PdfDocument.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\PdfDocument.cs",
+              "RelativeToolTip": "Documents\\PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:49:19.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExcelDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\ExcelDocument.cs",
+              "RelativeDocumentMoniker": "Documents\\ExcelDocument.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\Documents\\ExcelDocument.cs",
+              "RelativeToolTip": "Documents\\ExcelDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:49:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FactoryMethodPatternExample",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+              "RelativeDocumentMoniker": "FactoryMethodPatternExample.csproj",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-2-Factory-Method\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+              "RelativeToolTip": "FactoryMethodPatternExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-22T08:48:08.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

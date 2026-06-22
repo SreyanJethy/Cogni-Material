@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-1-Singleton-Pattern\\SingletonPatternExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1683A80F-D371-3819-5295-5FA3168E7DA5}|SingletonPatternExample.csproj|c:\\users\\sreyan\\onedrive\\desktop\\cogni-material\\dotnet fse\\week-1\\design patterns and principles\\exercise-1-singleton-pattern\\singletonpatternexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1683A80F-D371-3819-5295-5FA3168E7DA5}|SingletonPatternExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-1-Singleton-Pattern\\SingletonPatternExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sreyan\\OneDrive\\Desktop\\Cogni-Material\\DotNet FSE\\Week-1\\Design Patterns and Principles\\Exercise-1-Singleton-Pattern\\SingletonPatternExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T08:35:40.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
